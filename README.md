@@ -6,5 +6,6 @@ My Flutter Example apps
 2. cirnoapp
 3. miCard
 4. flutter_dicee
+5. flutter_8ball
 
 more yet to come

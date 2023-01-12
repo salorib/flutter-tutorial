@@ -9,6 +9,8 @@ My Flutter Example apps
 5. flutter_8ball
 6. flutter_Xylophone
 7. flutter_quizler
-8, flutter_destiny
+8. flutter_destiny
+9. flutter_clima
+10. flutter_BMICalculator
 
 more yet to come

@@ -7,5 +7,8 @@ My Flutter Example apps
 3. miCard
 4. flutter_dicee
 5. flutter_8ball
+6. flutter_Xylophone
+7. flutter_quizler
+8, flutter_destiny
 
 more yet to come

@@ -12,5 +12,6 @@ My Flutter Example apps
 8. flutter_destiny
 9. flutter_clima
 10. flutter_BMICalculator
+11. quizz_app
 
 more yet to come
